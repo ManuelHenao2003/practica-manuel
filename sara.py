@@ -1,0 +1,2 @@
+nombre = "milu"
+print(nombre)
