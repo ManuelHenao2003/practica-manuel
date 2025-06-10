@@ -1,2 +1,0 @@
-nombre = "robles"
-print(nombre)
